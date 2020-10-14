@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gradient_start">
+        <item>#2ae0c8 </item>
+        <item>#a2e1d4</item>
+        <item>#acf6ef</item>
+        <item>#cbf5fb</item>
+        <item>#bdf3d4</item>
+        <item>#e6e2c3</item>
+        <item>#e3c887</item>
+        <item>#fad8be</item>
+        <item>#fbb8ac</item>
+        <item>#fe6673</item>
+        <item>#2ae0c8 </item>
+        <item>#a2e1d4</item>
+        <item>#acf6ef</item>
+        <item>#cbf5fb</item>
+        <item>#bdf3d4</item>
+        <item>#e6e2c3</item>
+        <item>#e3c887</item>
+        <item>#fad8be</item>
+        <item>#fbb8ac</item>
+        <item>#fe6673</item>
+    </string-array>
+    <string-array name="gradient_end">
+        <item>#e3c887</item>
+        <item>#fad8be</item>
+        <item>#e3c887</item>
+        <item>#fad8be</item>
+        <item>#fe6673</item>
+        <item>#acf6ef</item>
+        <item>#EE8EBE</item>
+        <item>#a2e1d4</item>
+        <item>#acf6ef</item>
+        <item>#cbf5fb</item>
+        <item>#e3c887</item>
+        <item>#fad8be</item>
+        <item>#e3c887</item>
+        <item>#fad8be</item>
+        <item>#fe6673</item>
+        <item>#acf6ef</item>
+        <item>#EE8EBE</item>
+        <item>#a2e1d4</item>
+        <item>#acf6ef</item>
+        <item>#cbf5fb</item>
+    </string-array>
+</resources>
